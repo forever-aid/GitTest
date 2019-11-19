@@ -1,1 +1,3 @@
-aid人工智能
+# aid人工智能
+def fun():
+    print("Tom做了很多工作")
