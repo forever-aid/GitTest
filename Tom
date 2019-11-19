@@ -1,3 +1,5 @@
 # aid人工智能
+import sys,re
 def fun():
     print("Tom做了很多工作")
+    
