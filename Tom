@@ -2,4 +2,5 @@
 import sys,re
 def fun():
     print("Tom做了很多工作")
-    
+
+print("测试fetch")    
